@@ -5,6 +5,7 @@ namespace cn_con_clas
     class Cube
     {
         public double side;
+
     }
 
     class Cubearea

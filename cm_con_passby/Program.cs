@@ -46,7 +46,7 @@ namespace cn_con_ref
 
         static void PassByOut(out int x)
         {
-            x = 5;
+            x = 6;
             x = x * x;
             Console.WriteLine($"--- after changing, i = {x}");
         }
